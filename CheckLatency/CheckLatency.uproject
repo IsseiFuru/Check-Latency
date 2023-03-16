@@ -15,5 +15,11 @@
 			"Name": "OSC",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"LinuxArm64",
+		"Windows",
+		"HoloLens"
 	]
 }
